@@ -1,0 +1,16 @@
+# Ignore unnecessary folders
+Not Needed/
+PDFS/
+final_intervention_visualizations/
+
+# Optional: ignore system files
+.DS_Store
+Thumbs.db
+
+# Optional: ignore notebooks checkpoints
+.ipynb_checkpoints/
+
+*.pkl
+
+may_july_chunk_*.csv
+filtered_may_july.csv

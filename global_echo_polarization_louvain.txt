@@ -1,0 +1,6 @@
+Global polarization across Louvain echo chambers
+------------------------------------------------
+Echo communities used: 682
+Total echo nodes:      2335
+Polarization index P:  0.0000
+Polarity (mean x):     0.0000

@@ -1,0 +1,5 @@
+GLOBAL ECHO POLARIZATION
+Echo communities: 682
+Total nodes: 2335
+Global Morales P: 0.0000
+Global average opinion: 0.0000
